@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "CLI to help on the insertion and removal of the Rainforest.framework on iOS apps",
   "main": "rnfrst-xcode.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rainforestapp/rnfrst-xcode"
+  },
   "bin": {
     "rnfrst-xcode": "./rnfrst-xcode.js"
   },
